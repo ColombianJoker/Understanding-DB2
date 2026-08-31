@@ -1,0 +1,22 @@
+┌─────────────────┐
+│ R1_UNION_ALL_R2 │
+│     varchar     │
+├─────────────────┤
+│ Apple           │
+│ Apple           │
+│ Apple           │
+│ Apple           │
+│ Apple           │
+│ Banana          │
+│ Banana          │
+│ Banana          │
+│ Banana          │
+│ Banana          │
+│ Cranberry       │
+│ Cranberry       │
+│ Cranberry       │
+│ Cranberry       │
+│ Mango           │
+│ Orange          │
+└─────────────────┘
+      16 rows    

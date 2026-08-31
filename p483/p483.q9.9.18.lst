@@ -1,0 +1,9 @@
+┌───────┬─────────┬───────┬─────────┐
+│ col1  │  col2   │ col1  │  col2   │
+│ int32 │ varchar │ int32 │ varchar │
+├───────┼─────────┼───────┼─────────┤
+│     2 │ Raul    │     2 │ Susan   │
+│     9 │ Glenn   │     9 │ Luisa   │
+│  NULL │ NULL    │     5 │ Clara   │
+│  NULL │ NULL    │     6 │ Jenny   │
+└───────┴─────────┴───────┴─────────┘

@@ -1,0 +1,8 @@
+MERGE INTO T USING S
+    ON T.col1 = S.col1
+    WHEN MATCHED THEN
+        UPDATE SET col2 = S.col2
+    WHEN NOT MATCHED THEN
+        INSERT VALUES (S.col1, S.col2);
+
+SELECT * FROM T;

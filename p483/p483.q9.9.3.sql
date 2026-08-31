@@ -1,0 +1,3 @@
+SELECT id, job
+    FROM OLD TABLE
+    (DELETE FROM t1 WHERE bonus IS NULL);

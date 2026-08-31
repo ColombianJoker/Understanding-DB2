@@ -1,0 +1,14 @@
+┌───────┬─────────┐
+│  id   │   job   │
+│ int32 │ varchar │
+├───────┼─────────┤
+│     1 │ Mgr     │
+│     3 │ Mgr     │
+└───────┴─────────┘
+
+# CREATED USING
+#
+#
+#    DELETE FROM t1
+#      WHERE bonus IS NULL
+#      RETURNING id, job;

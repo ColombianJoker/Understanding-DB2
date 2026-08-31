@@ -1,0 +1,10 @@
+┌─────────────────┐
+│ R1_INTERSECT_R2 │
+│     varchar     │
+├─────────────────┤
+│ Apple           │
+│ Apple           │
+│ Banana          │
+│ Banana          │
+│ Cranberry       │
+└─────────────────┘

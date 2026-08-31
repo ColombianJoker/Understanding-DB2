@@ -1,0 +1,13 @@
+┌─────────┬───────┐
+│  name   │  age  │
+│ varchar │ int32 │
+├─────────┼───────┤
+│ Mary    │    30 │
+│ Peter   │    35 │
+│ John    │    45 │
+│ Lilian  │    38 │
+│ Raymond │    26 │
+│ Lilian  │    24 │
+│ Peter   │    38 │
+│ Peter   │    40 │
+└─────────┴───────┘

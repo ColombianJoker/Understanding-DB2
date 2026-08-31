@@ -1,0 +1,10 @@
+┌───────────┐
+│    R1     │
+│  varchar  │
+├───────────┤
+│ Apple     │
+│ Banana    │
+│ Cranberry │
+│ Mango     │
+│ Orange    │
+└───────────┘

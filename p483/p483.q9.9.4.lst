@@ -1,0 +1,8 @@
+┌─────────┐
+│  name   │
+│ varchar │
+├─────────┤
+│ Peter   │
+│ Lilian  │
+│ Raymond │
+└─────────┘

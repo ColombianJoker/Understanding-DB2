@@ -1,0 +1,9 @@
+┌──────────────┐
+│ R1_EXCEPT_R2 │
+│   varchar    │
+├──────────────┤
+│ Apple        │
+│ Cranberry    │
+│ Cranberry    │
+│ Orange       │
+└──────────────┘
